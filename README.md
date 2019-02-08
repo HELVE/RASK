@@ -6,7 +6,7 @@ Tool to passively increase your reading speed.
 
 Statistically we read at 300 words a minute although our brain can read faster. Unlock your potential by eliminating the need to move your eyes. Feed the tool with any type of text, adjust the reading speed (400/minute, 500/minute, 600/minute) and learn, enjoy, discover.
 
-Tool/app/plugin?
+iOS app/Android app/Chrome plugin/web version?
 
 Features:
 + text import (any sort of text)
