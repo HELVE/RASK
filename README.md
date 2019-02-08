@@ -9,8 +9,11 @@ Statistically we read at 300 words a minute although our brain can read faster. 
 Tool/app/plugin?
 
 Features:
-+ rewid/skip word/sentence/paragraph
++ text import (any sort of text)
++ take a photo and convert any physical text (OCR) [could be tough to implement properly]
++ rewid/skip/pause word/sentence/paragraph
 + customizable visuals (regular and dark mode, custom colours)
++ hidden counter: how much time did you save by reading faster (cumulative)
 
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
