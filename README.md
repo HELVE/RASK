@@ -2,7 +2,11 @@
 
 <a name="intro"></a>
 # RASK - Read Faster Passively
-Tool to passively increase your reading speed. Statistically we read at 300 words a minute but our brain can read faster if the need to move your eyes is eliminated. Feed the tool with any type of text, adjust the reading speed (400/minute, 500/minute).
+Tool to passively increase your reading speed. 
+
+Statistically we read at 300 words a minute although our brain can read faster. Unlock your potential by eliminating the need to move your eyes. Feed the tool with any type of text, adjust the reading speed (400/minute, 500/minute) and learn, enjoy, discover.
+
+Tool/app/plugin?
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
 
