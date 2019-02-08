@@ -10,6 +10,7 @@ Tool/app/plugin?
 
 Features:
 + rewid/skip word/sentence/paragraph
++ customizable visuals (regular and dark mode, custom colours)
 
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
