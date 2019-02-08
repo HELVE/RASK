@@ -9,11 +9,13 @@ Statistically we read at 300 words a minute although our brain can read faster. 
 iOS app/Android app/Chrome plugin/web version?
 
 Features:
++ minimal approach and visuals (most of UI hidden from sight to focus on the word cascade)
 + text import (any sort of text)
 + take a photo and convert any physical text (OCR) [could be tough to implement properly]
-+ rewid/skip/pause word/sentence/paragraph
++ rewid/skip/pause word/sentence/paragraph (detects sentence/paragraph start and end points)
 + customizable visuals (regular and dark mode, custom colours)
-+ hidden counter: how much time did you save by reading faster (cumulative)
++ stats: how many words did your brain process (?)
++ hidden time counter: how much time did you save by reading faster (cumulative)
 
 
 ![GALLERY QUAD](/assets/template_visuals/temp-dual-gallery.png)
