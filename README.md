@@ -68,5 +68,6 @@ Insert project licensing options if there are any.
 
 <a name="credits"></a>
 ### Credits
+All sorts of collaborators welcome! 
 Insert project creator entities, contributors and their respective presence links.
 
